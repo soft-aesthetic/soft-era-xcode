@@ -4,10 +4,6 @@
 
 🌸 Light pastel syntax theme for soft, warm, cozy, cute coding. 🌱
 
-<p><br><br><br>⚠️🚧🚧🚧🚧⚠️<br><br>
-awaiting pull request from a noble soul who wants to port this <3
-<br><br>⚠️🚧🚧🚧🚧⚠️<br><br><br><br></p>
-
 ![soft era syntax theme screenshot](screenshot.png)
 
 \~.\~
@@ -23,7 +19,16 @@ awaiting pull request from a noble soul who wants to port this <3
 
 ## Installation
 
-- [insert installation instructions]
+
+* Close **Xcode**
+* Navigate to `~/Library/Developer/Xcode/UserData/FontAndColorThemes` in **Finder**
+	* Create the folder if it doesn't exist.
+* Move `~ soft era ~.xccolortheme` to that folder.
+* Launch **Xcode**
+	* Open 'Xcode' -> Preferences from the menu bar.
+* Open the "Fonts & Colors" panel.
+* Choose '~ soft era ~' from the list on the left.
+	* It may be at the bottom, so if you don't see it try scrolling down.
 
 
 💾 enjoy <3
